@@ -11,6 +11,8 @@ To install this application, the user can simply click the install button in the
 ## Usage
 This application allows the user to enter text onto the screen. This text entry is then saved into the IndexedDB. This application functions offline using a custom service worker. It has built-in fallback options for unreliable connections. 
 
+When testing the J.A.T.E., users should make sure to clear their cache and use a clean browser- a browser in incognito mode works well here. This will ensure that the application is caching accurately. 
+
 ## Credits
 The starter code for this project was provided by the UT Austin Full-stack Bootcamp. Multiple node packages were utilized in this project, including:
 - sequelize
