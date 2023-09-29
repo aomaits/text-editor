@@ -1,7 +1,7 @@
 # J.A.T.E - Just Another Text Editor
 
 ## Description
-This single-page text editor application was created with full PWA capabilities. 
+This single-page text editor application was created with full PWA capabilities. This project was primarily intended to expand understanding of a webpack build. 
 
 ## Installation
 To install this application, the user can simply click the install button in their browser.  
