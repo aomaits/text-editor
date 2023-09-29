@@ -4,7 +4,9 @@
 This single-page text editor application was created with full PWA capabilities. This project was primarily intended to expand understanding of a webpack build. 
 
 ## Installation
-To install this application, the user can simply click the install button in their browser.  
+This application is no longer deployed via Heroku. For access to full capabilities, the user will have to begin by forking this repo. 
+
+To install this application on the user's local divice, the user can click the install button in their browser.  
 
 ![The downloaded JATE interface with the install button clearly displayed](./server/assets/downloaded-jate.jpg)
 
